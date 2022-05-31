@@ -1,5 +1,5 @@
 # Java_Algorithms_Basic
-Basic Java Algorithms like Smith Number, Armstrong Number, Prime Number, Pronic Number and more..
+Basic Java Algorithms including Smith Number, Armstrong Number, Prime Number, Pronic Number and more..
 The following codes are included at the moment :
 sca111 - Prime Number
 sca114 - HFC/ GCD
