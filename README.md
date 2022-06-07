@@ -9,3 +9,4 @@ sca119 - Smith Number
 sca120 - Armstrong Number
 sca121 - Binary Conversion
 sca122 - Evil Number
+sca132 - Happy/Sad number
