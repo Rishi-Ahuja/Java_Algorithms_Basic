@@ -1,5 +1,7 @@
 //Program to identify armstrong number
+
 import java.util.Scanner;
+
 public class sca120
 {
     public static void main(String[] args)
