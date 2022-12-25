@@ -5,7 +5,7 @@ The following codes are included at the moment :
 
 sca111 - Prime Number
 
-sca114 - HFC/ GCD
+sca114 - HFC / GCD
 
 sca115 - LCM
 
@@ -19,4 +19,4 @@ sca121 - Binary Conversion
 
 sca122 - Evil Number
 
-sca132 - Happy/Sad number
+sca132 - Happy or Sad Number
